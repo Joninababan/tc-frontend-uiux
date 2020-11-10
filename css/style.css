@@ -234,6 +234,10 @@ button:focus {
     cursor: pointer;
 }
 
+.icon-img{
+    color: rgb(22, 185, 49);
+}
+
 .btn-color{
     border-radius: 50px;
     color: #fff;
@@ -452,30 +456,78 @@ a:hover {
 @media screen and (max-width: 992px) {
     .card1 {
         width: 100%;
-        padding: 40px 30px 10px 30px
+        padding: 40px 30px 10px 30px;
+        margin-top: 110px;
+    }
+
+    .reg-header{
+        font-size: 15px;
     }
 
     .card2 {
         width: 100%
     }
 
+    #text-input{
+        width: 95%;
+        margin-left: 2%;
+    }
+
+    .btn-block{
+        width: 80%;
+    }
+
+    .text-label{
+        margin-left: 2%;
+    }
+
     .right {
         margin-top: 100px;
         margin-bottom: 100px;
+    }
+
+    .profile-edit-btn{
+        width: 75px;
+        height: 40px;
+        font-size: 13px;
+    }
+
+    #myTab{
+        font-size: 13px;
+    }
+
+    .sidenav {
+        font-size: 12px;
+    }
+
+    .text-muted{
+        font-size: 14px;
+        margin-left: 0%;
     }
 }
 
 @media screen and (max-width: 768px) {
     .container {
         padding: 10px;
+        width: 25rem;
     }
 
     .card2 {
         padding: 50px
     }
 
+    .sidenav {
+        font-size: 10px;
+      }
+
+      .profile-img{
+          height: 5rem;
+          width: 10rem;
+      }
+
     .right {
         margin-top: 50px;
         margin-bottom: 50px;
     }
 }
+
