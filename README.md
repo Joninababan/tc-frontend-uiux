@@ -86,4 +86,27 @@ Alamat url untuk website: https://member.picassorewards.com, system ini sedang d
 
 ## Jawaban Anda
 
+Kritik dan saran :
+A. Halaman Login
+-Sebaiknya place holder yang ada di input type dihapus karena sudah ada yang menjelaskan isi dari masing masing input diatasnya dan mengganti identity menjadi Username or Email agar user lebih mudah mengerti
+-Mengubah warna button dan button hover agar lebih menarik agar serasi dengan warna background card yang disamping form
+-Menambah logo Picasso pada bagian atas agar 
+
+B. Halaman Forgot password 
+-Menambahkan logo Picasso pada bagian atas
+-Mengubah warna button dan button hover agar lebih menarik agar serasi dengan warna background card yang disamping form
+
+C. Halaman Register
+-Mengubah warna button dan button hover agar lebih menarik agar serasi dengan warna background card yang disamping form
+
+D. Dashboard
+-Tombol logout pada sidebar sebaiknya dihapus karena tombol logout sudah ada di bagian dropdown pada nama user
+-Poto Profil dibuat pada bagian sidebar agar tidak memakan tempat pada halaman account dan juga halaman profile
+
+E. Halaman Account
+-Data profile yang ada di dalam halaman account sebaiknya dihapus saja karena data tersebut sudah ada di dalam halaman profile
+
+F. Halaman Profile
+-Pada halaman profile menambahkan beberapa sub menu seperti contact information dan my traveller agar user lebih mudah dalam memfilter data yang ingin dilihat
+
 ...
