@@ -87,26 +87,26 @@ Alamat url untuk website: https://member.picassorewards.com, system ini sedang d
 ## Jawaban Anda
 
 Kritik dan saran :
-A. Halaman Login
--Sebaiknya place holder yang ada di input type dihapus karena sudah ada yang menjelaskan isi dari masing masing input diatasnya dan mengganti identity menjadi Username or Email agar user lebih mudah mengerti
--Mengubah warna button dan button hover agar lebih menarik agar serasi dengan warna background card yang disamping form
--Menambah logo Picasso pada bagian atas agar 
+A. Halaman Login<br>
+-Sebaiknya place holder yang ada di input type dihapus karena sudah ada yang menjelaskan isi dari masing masing input diatasnya dan mengganti identity menjadi Username or Email agar user lebih mudah mengerti<br>
+-Mengubah warna button dan button hover agar lebih menarik agar serasi dengan warna background card yang disamping form<br>
+-Menambah logo Picasso pada bagian atas form<br>
 
-B. Halaman Forgot password 
--Menambahkan logo Picasso pada bagian atas
--Mengubah warna button dan button hover agar lebih menarik agar serasi dengan warna background card yang disamping form
+B. Halaman Forgot password<br>
+-Menambahkan logo Picasso pada bagian atas<br>
+-Mengubah warna button dan button hover agar lebih menarik agar serasi dengan warna background card yang disamping form<br>
 
-C. Halaman Register
--Mengubah warna button dan button hover agar lebih menarik agar serasi dengan warna background card yang disamping form
+C. Halaman Register<br>
+-Mengubah warna button dan button hover agar lebih menarik agar serasi dengan warna background card yang disamping form<br>
 
-D. Dashboard
--Tombol logout pada sidebar sebaiknya dihapus karena tombol logout sudah ada di bagian dropdown pada nama user
--Poto Profil dibuat pada bagian sidebar agar tidak memakan tempat pada halaman account dan juga halaman profile
+D. Dashboard<br>
+-Tombol logout pada sidebar sebaiknya dihapus karena tombol logout sudah ada di bagian dropdown pada nama user<br>
+-Poto Profil dibuat pada bagian sidebar agar tidak memakan tempat pada halaman account dan juga halaman profile<br>
 
-E. Halaman Account
--Data profile yang ada di dalam halaman account sebaiknya dihapus saja karena data tersebut sudah ada di dalam halaman profile
+E. Halaman Account<br>
+-Data profile yang ada di dalam halaman account sebaiknya dihapus saja karena data tersebut sudah ada di dalam halaman profile<br>
 
-F. Halaman Profile
--Pada halaman profile menambahkan beberapa sub menu seperti contact information dan my traveller agar user lebih mudah dalam memfilter data yang ingin dilihat
+F. Halaman Profile<br>
+-Pada halaman profile menambahkan beberapa sub menu seperti contact information dan my traveller agar user lebih mudah dalam memfilter data yang ingin dilihat<br>
 
 ...
