@@ -86,7 +86,7 @@ Alamat url untuk website: https://member.picassorewards.com, system ini sedang d
 
 ## Jawaban Anda
 
-Kritik dan saran :
+Kritik dan saran :<br>
 A. Halaman Login<br>
 -Sebaiknya place holder yang ada di input type dihapus karena sudah ada yang menjelaskan isi dari masing masing input diatasnya dan mengganti identity menjadi Username or Email agar user lebih mudah mengerti<br>
 -Mengubah warna button dan button hover agar lebih menarik agar serasi dengan warna background card yang disamping form<br>
